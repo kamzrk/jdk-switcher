@@ -1,4 +1,4 @@
-# java_version_switcher
+# jdk_switcher
 
 A new Flutter project.
 
